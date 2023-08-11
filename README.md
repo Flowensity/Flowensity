@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Flowensity</h1>
-- 📝 I regularly write articles on [www.flowensity.buzz](https://www.flowensity.buzz)
+- 📝 I regularly write articles on www.flowensity.buzz
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
