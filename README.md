@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Flowensity</h1>
-- 📝 I regularly write articles on www.flowensity.buzz
+- Blogh: www.flowensity.buzz
 
 <p align="left">
 </p>
